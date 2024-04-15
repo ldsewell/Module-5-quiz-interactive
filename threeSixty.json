@@ -1,0 +1,42 @@
+{
+  "version": "3.84.31722.0",
+  "course_id": "6BL38n9E3UD_course_id",
+  "title": "Module 5 Quiz",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Module 5 Quiz"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6IPRMWydv7H",
+      "title": "Question1",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "60UZDuRPc9G",
+      "title": "Question2",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6NPnPbMzLiM",
+      "title": "Question3",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5nt9Yx2v8wE",
+      "title": "Results Slide",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
